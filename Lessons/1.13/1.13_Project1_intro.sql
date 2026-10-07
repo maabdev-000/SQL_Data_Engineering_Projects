@@ -1,4 +1,4 @@
 SELECT DISTINCT
-  job_county
+  job_title_short
 FROM 
    job_postings_fact;
